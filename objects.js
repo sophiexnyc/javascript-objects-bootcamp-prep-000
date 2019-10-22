@@ -1,6 +1,6 @@
-var playlist = new Object;
+var playlist = new Object();
 
-playlist = {
+var playlist = {
   Slowdive: "Alison",
   My Bloody Valentine: "Sometimes"
 };
